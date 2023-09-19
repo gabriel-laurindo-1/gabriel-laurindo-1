@@ -7,7 +7,7 @@ Sou um programador apaixonado por tecnologia, com experiência em desenvolviment
 ## 🛠️ Habilidades Técnicas
 - Linguagens de Programação: Python, C/C++, Javascript
 - Linguagens de Marcação: HTML5, CSS
-- Ferramentas: Git, Arduino, RabbitMQ, Selenium
+- Ferramentas: Git, Arduino, RabbitMQ, Selenium, Docker
 - Frameworks: Django, Flask
 
 ## 🚀 Projetos Relevantes
