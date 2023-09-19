@@ -1,14 +1,42 @@
-<h1 align="center">Hi 👋, I'm Gabriel Laurindo</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+# Gabriel Laurindo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/gabriellaurindo)
 
-- 🌱 I’m currently learning **Django, Flask and Web Frameworks**
+## 🚀 Resumo
+Sou um programador apaixonado por tecnologia, com experiência em desenvolvimento web e eletrônica. Minhas principais habilidades incluem Python, C/C++, Javascript, HTML5, CSS e o uso de ferramentas como Git, Arduino, RabbitMQ e Selenium. Tenho experiência com os frameworks Django e Flask, e estou sempre em busca de novos desafios.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriellaurindo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriellaurindo" height="30" width="40" /></a>
-</p>
+## 🛠️ Habilidades Técnicas
+- Linguagens de Programação: Python, C/C++, Javascript
+- Linguagens de Marcação: HTML5, CSS
+- Ferramentas: Git, Arduino, RabbitMQ, Selenium
+- Frameworks: Django, Flask
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🚀 Projetos Relevantes
+- **Django/Celery Example**
+  - Exemplo de integração do Celery com o Django.
+  - [Link para o repositório do projeto](https://github.com/gabriel-laurindo-1/django-celery-example)
 
+- **Bissection Method**
+  - Implementação do método de bissecção em Python.
+  - [Link para o repositório do projeto](https://github.com/gabriel-laurindo-1/bissection-method)
+
+- **Gallery Images**
+  - Uma galeria simples de imagens em HTML/CSS/JS.
+  - [Link para o repositório do projeto](https://github.com/gabriel-laurindo-1/gallery-images)
+
+## 🌱 Projetos Pessoais
+**Monitor de Qualidade de Energia**
+O EQM é um protótipo de baixo custo, desenvolvido com a finalidade de medir os sinais de tensão, corrente elétrica e frequência, a fim de calcular o fator de potência instantâneo no circuito ao qual foi instalado.
+- [Link para o repositório do projeto](https://github.com/gabriel-laurindo-1/monitorQEE)
+
+## 🔥 Histórico de Atividades
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-laurindo-1&show_icons=true&locale=en" alt="gabriel-laurindo-1" /></p>
+
+## 📫 Contato
+- **[LinkedIn](https://www.linkedin.com/in/gabriellaurindo)**
+
+## 🌐 Outras Informações
+Atualmente, estou focado em expandir meu conhecimento em desenvolvimento web e eletrônica, buscando desafios interessantes que me permitam aplicar minhas habilidades e aprender novas tecnologias. Além do meu trabalho e projetos pessoais, sou um entusiasta de código aberto e sempre estou disposto a contribuir para projetos que compartilham meus interesses.
+
+Estou aberto a oportunidades de colaboração e acredito que o compartilhamento de conhecimento é fundamental para o crescimento na área de tecnologia. Se você tem um projeto interessante, uma ideia empolgante ou deseja discutir oportunidades de trabalho, sinta-se à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/gabriellaurindo).
+
+Estou ansioso para conhecer profissionais da área, trocar experiências e enfrentar novos desafios juntos. Vamos construir coisas incríveis!
